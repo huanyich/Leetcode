@@ -8,9 +8,10 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+    //Solution 1. use extra space and two pass
 class Solution {
 public:
-    //Solution 1. use extra space
+
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         vector<ListNode*> v;
         while(head){
@@ -18,8 +19,6 @@ public:
             v.push_back(curr);
             head = head->next;
         }
-        
-        
         ListNode* dummy = new ListNode(-1);
         ListNode* curr = dummy;
         for(int i=0; i<v.size(); i++){
@@ -28,14 +27,40 @@ public:
             curr->next = v[i];
             curr = curr->next;
         }
-        
-        return dummy->next;
-        
-        
-        
-        
-        
-    }
+        return dummy->next;   
+    }    
+};
+//Solution 2. two path with no extra space
+class Solution {
+public:
     
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        int length = 0;
+	ListNode* dummy = head;
+
+	//first path to know the length
+	while(dummy){
+		length++;
+		dummy = dummy->next;
+	}
+	
+	dummy = head;
+	int target = length - n +1;
+	int count = 1;
     
+	if(target == 1){
+		head = head->next;
+		return head;
+	}
+        
+	while(head){
+		if(count+1==target){
+			head->next = head->next->next;
+		}else{
+			head = head->next;
+		}
+        count++;
+	}
+	return dummy;    
+    }  
 };
