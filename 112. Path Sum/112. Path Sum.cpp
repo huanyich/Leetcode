@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+ /*
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
@@ -31,5 +33,31 @@ public:
         return false;
 
     }
+
+};
+*/
+//BFS
+class Solution {
+public:
+    bool hasPathSum(TreeNode* root, int targetSum) {
+       if(root==NULL) return false;
+       queue<pair<TreeNode*,int>> q;
+       q.push({root, 0});
+       
+       while(!q.empty()){
+           TreeNode* curr = q.front().first;
+           int currSum = q.front().second;
+            q.pop();
+            currSum +=curr->val;
+            if(!curr->left && !curr->right && currSum==targetSum) return true;
+            if(curr->left) q.push({curr->left, currSum});
+            if(curr->right) q.push({curr->right,currSum});
+
+
+       }
+
+       return false;
+    }
+    
 
 };
