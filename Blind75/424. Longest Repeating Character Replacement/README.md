@@ -1,4 +1,4 @@
->Sliding Window Solution:  
+>Sliding Window Solution::technologist:  
 **keep track of the global most obvious characater.**    
 
 use a HashMap to track the current window characters' frequency.  
