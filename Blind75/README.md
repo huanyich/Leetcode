@@ -1,7 +1,7 @@
 <h1>Blind 75 Questions<h1>
 <nav>
   <ul>
-    <li><a href="#array&hash">Arrays and Hashing</a></li>
+    <li><a href="#array&hash" font-size:2px>Arrays and Hashing</a></li>
     <li><a href="#twopointer">Two Pointer</a></li>
     <li>Sliding Window</li>
     <li>Stack</li>
