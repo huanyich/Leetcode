@@ -1,5 +1,5 @@
 <h1>Blind 75 Questions<h1>
-<section>
+
 <h2>Arrays and Hashing<h2>
 <ul>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/217.%20Contains%20Duplicate">Contains Duplicate<a></li>
@@ -12,7 +12,7 @@
   <li>Encode And Decode Strings</li>
   <li>Longest Consecutive Sequence</li>
 </ul>
-<section>
+
     
 
 
