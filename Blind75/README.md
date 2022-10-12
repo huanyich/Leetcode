@@ -11,3 +11,6 @@
   <li>Encode And Decode Strings</li>
   <li>Longest Consecutive Sequence</li>
 </ul>
+    <p>
+      [TEST LINK]https://github.com/huanyich/Leetcode/tree/main/Blind75/1.%20Two%20Sum
+    </p>
