@@ -34,6 +34,19 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/33.%20Search%20in%20Rotated%20Sorted%20Array">Search In Rotated Sorted Array</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Find Minimum In Rotated Sorted Array</a></li>
   </ul>
+<h2>Linked List<h2>
+<h2>Trees<h2>
+<h2>Tries<h2>
+<h2>Heap<h2>
+<h2>Backtracking<h2>
+<h2>Graphs<h2>
+<h2>Advanced Graphs<h2>
+<h2>1-D Dynamic Progamming<h2>
+<h2>2-D Dynamic Progamming<h2>
+<h2>Greedy<h2>
+<h2>Intervals<h2>
+<h2>Math & Geometry<h2>
+<h2>Bit Manipulation<h2>
     
 
 
