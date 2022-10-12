@@ -11,4 +11,4 @@
   <li>Encode And Decode Strings</li>
   <li>Longest Consecutive Sequence</li>
 </ul>
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
+
