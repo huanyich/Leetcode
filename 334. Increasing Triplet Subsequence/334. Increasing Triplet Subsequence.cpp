@@ -1,24 +1,33 @@
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
+        /* O(n) O(n)
+        stack<int> s;
         int n = nums.size();
-        vector<int> left(n,0);
-        vector<int> right(n,0);
-        left[0] = nums[0];
-        for(int i=1; i<n; i++){
-            left[i] = min(left[i-1], nums[i]);
-        }
-        right[n-1] = nums[n-1];
-        for(int i=n-2; i>=0; i--){
-            right[i] = max(right[i+1], nums[i]);
-        }
-        for(int i=0; i<n; i++){
-            //cout<<left[i]<<" "<<right[i]<<endl;
-            if(nums[i]>left[i] && nums[i]<right[i]) return true;
-        }
         
-        return false;
+        for(int i=0; i<n; i++){
+            if(s.empty()){
+                s.push(nums[i]);
+                continue;
+            }
+            if(!s.empty() && s.top()<=nums[i]){
+                s.top() = min(s.top(), )
+            }
+            s.push(nums[i]);
+        }
+        */
+        //O(n) O(1)
+        int first = INT_MAX;
+        int second = INT_MAX;
 
+        for(int n:nums){
+            if(n<=first) first=n;
+            else if (n<=second) second=n;
+            else{
+                if(n>first && n>second) return true;
+            }
+        }
+        return false;
 
     }
 };
