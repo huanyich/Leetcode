@@ -1,6 +1,17 @@
 <h1>Blind 75 Questions<h1>
+<nav>
+  <ul>
+    <li><a href="#array&hash">Arrays and Hashing</a></li>
+    <li><a href="#twopointer">Two Pointer</a></li>
+    <li>Sliding Window</li>
+    <li>Stack</li>
+    <li>Binary Search</li>
+    <li>Linked List</li>
+    
+  </ul>
+<nav>
 
-<h2>Arrays and Hashing<h2>
+<h2 id = "array&hash">Arrays and Hashing<h2>
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/217.%20Contains%20Duplicate">Contains Duplicate<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/242.%20Valid%20Anagram">Valid Anagram<a></li>
@@ -12,7 +23,7 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/271.%20Encode%20and%20Decode%20Strings">Encode And Decode Strings</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/128.%20Longest%20Consecutive%20Sequence">Longest Consecutive Sequence</a></li>
   </ul>
-<h2>Two Pointer<h2>
+<h2 id="twopointer">Two Pointer<h2>
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/125.%20Valid%20Palindrome">Valid Palindrome</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/15.%203Sum">3Sum</a></li>
