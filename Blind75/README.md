@@ -14,10 +14,13 @@
   </ul>
 <h2>Two Pointer<h2>
   <ul>
-    <li>Valid Palindrome</li>
-    <li>3Sum</li>
-    <li>Container With Most Water</li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/125.%20Valid%20Palindrome">Valid Palindrome</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/15.%203Sum">3Sum</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/11.%20Container%20With%20Most%20Water">Container With Most Water</a></li>
   </ul>
+<h2>Sliding Window<h2>
+<h2>Stack<h2>
+<h2>Binary Search<h2>
     
 
 
