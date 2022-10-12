@@ -26,7 +26,14 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/76.%20Minimum%20Window%20Substring">Minimum Window Substring</a></li>
   </ul>
 <h2>Stack<h2>
+  <ul>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/125.%20Valid%20Palindrome">Valid Parentheses</a></li>
+  </ul>
 <h2>Binary Search<h2>
+  <ul>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/33.%20Search%20in%20Rotated%20Sorted%20Array">Search In Rotated Sorted Array</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Find Minimum In Rotated Sorted Array</a></li>
+  </ul>
     
 
 
