@@ -3,10 +3,13 @@
   <ul>
     <li><a href="#array&hash">Arrays and Hashing</a></li>
     <li><a href="#twopointer">Two Pointer</a></li>
-    <li>Sliding Window</li>
-    <li>Stack</li>
-    <li>Binary Search</li>
-    <li>Linked List</li>
+    <li><a href="#slidingwindow">Sliding Window</a></li>
+    <li><a href="#stack">Stack</a></li>
+    <li><a href="#binarysearch">Binary Search</a></li>
+    <li><a href="#linkedlist">Linked List</a></li>
+    <li><a href="#linkedlist">Trees</a></li>
+    <li><a href="#linkedlist">Tries</a></li>
+    <li><a href="#linkedlist">Heap</a></li>
     
   </ul>
 <nav>
@@ -29,23 +32,23 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/15.%203Sum">3Sum</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/11.%20Container%20With%20Most%20Water">Container With Most Water</a></li>
   </ul>
-<h2>Sliding Window<h2>
+<h2 id="slidingwindow">Sliding Window<h2>
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock">Best Time to Buy And Sell Stock</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/3.%20Longest%20Substring%20Without%20Repeating%20Characters">Longest Substring Without Repeating Characters</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/424.%20Longest%20Repeating%20Character%20Replacement">Longest Repeating Character Replacement</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/76.%20Minimum%20Window%20Substring">Minimum Window Substring</a></li>
   </ul>
-<h2>Stack<h2>
+<h2 id="stack">Stack<h2>
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/125.%20Valid%20Palindrome">Valid Parentheses</a></li>
   </ul>
-<h2>Binary Search<h2>
+<h2 id="bianrysearch">Binary Search<h2>
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/33.%20Search%20in%20Rotated%20Sorted%20Array">Search In Rotated Sorted Array</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Find Minimum In Rotated Sorted Array</a></li>
   </ul>
-<h2>Linked List<h2>
+<h2 id="linkedlist">Linked List<h2>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/206.%20Reverse%20Linked%20List">Reverse Linked List<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/21.%20Merge%20Two%20Sorted%20Lists">Merge Two Sorted Lists<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/143.%20Reorder%20List">Reorder List</a></li>
