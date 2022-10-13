@@ -43,7 +43,7 @@
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/125.%20Valid%20Palindrome">Valid Parentheses</a></li>
   </ul>
-<h2 id="bianrysearch">Binary Search<h2>
+<h2 id="binarysearch">Binary Search<h2>
   <ul>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/33.%20Search%20in%20Rotated%20Sorted%20Array">Search In Rotated Sorted Array</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Find Minimum In Rotated Sorted Array</a></li>
