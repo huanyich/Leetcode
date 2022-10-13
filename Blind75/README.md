@@ -46,6 +46,12 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Find Minimum In Rotated Sorted Array</a></li>
   </ul>
 <h2>Linked List<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/206.%20Reverse%20Linked%20List">Reverse Linked List<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/21.%20Merge%20Two%20Sorted%20Lists">Merge Two Sorted Lists<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/143.%20Reorder%20List">Reorder List</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/19.%20Remove%20Nth%20Node%20From%20End%20of%20List">Remove Nth Node From End of List</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/141.%20Linked%20List%20Cycle">Linked List Cycle</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/23.%20Merge%20k%20Sorted%20Lists">Merge K Sorted Lists</a></li>
 <h2>Trees<h2>
 <h2>Tries<h2>
 <h2>Heap<h2>
