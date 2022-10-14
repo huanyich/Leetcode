@@ -56,6 +56,15 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/141.%20Linked%20List%20Cycle">Linked List Cycle</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/23.%20Merge%20k%20Sorted%20Lists">Merge K Sorted Lists</a></li>
 <h2>Trees<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/226.%20Invert%20Binary%20Tree">Invert Binary Tree<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/104.%20Maximum%20Depth%20of%20Binary%20Tree">Maximum Depth of Binary Tree<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/100.%20Same%20Tree">Same Tree</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/572.%20Subtree%20of%20Another%20Tree">Subtree of Another Tree</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree">Lowest Common Ancestor of a Binary Search Tree</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/102.%20Binary%20Tree%20Level%20Order%20Traversal">Binary Tree Level Order Traversal</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/98.%20Validate%20Binary%20Search%20Tree">Validate Binary Search Tree</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/102.%20Binary%20Tree%20Level%20Order%20Traversal">Binary Tree Level Order Traversal</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal">Construct Binary Tree From Preorder And Inorder Traversal</a></li>
 <h2>Tries<h2>
 <h2>Heap<h2>
 <h2>Backtracking<h2>
