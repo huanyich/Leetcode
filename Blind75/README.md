@@ -65,6 +65,8 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/98.%20Validate%20Binary%20Search%20Tree">Validate Binary Search Tree</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/102.%20Binary%20Tree%20Level%20Order%20Traversal">Binary Tree Level Order Traversal</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal">Construct Binary Tree From Preorder And Inorder Traversal</a></li>
+    <li><a>Binary Tree Maximum Path Sum</a></li>
+    <li><a>Serialize And Deserialize Binary Tree</a></li>
 <h2>Tries<h2>
 <h2>Heap<h2>
 <h2>Backtracking<h2>
