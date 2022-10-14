@@ -7,7 +7,7 @@
     <li><a href="#stack">Stack</a></li>
     <li><a href="#binarysearch">Binary Search</a></li>
     <li><a href="#linkedlist">Linked List</a></li>
-    <li><a href="#linkedlist">Trees</a></li>
+    <li><a href="#trees">Trees</a></li>
     <li><a href="#linkedlist">Tries</a></li>
     <li><a href="#linkedlist">Heap</a></li>
     
@@ -55,7 +55,7 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/19.%20Remove%20Nth%20Node%20From%20End%20of%20List">Remove Nth Node From End of List</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/141.%20Linked%20List%20Cycle">Linked List Cycle</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/23.%20Merge%20k%20Sorted%20Lists">Merge K Sorted Lists</a></li>
-<h2>Trees<h2>
+<h2 id="trees">Trees<h2>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/226.%20Invert%20Binary%20Tree">Invert Binary Tree<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/104.%20Maximum%20Depth%20of%20Binary%20Tree">Maximum Depth of Binary Tree<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/100.%20Same%20Tree">Same Tree</a></li>
