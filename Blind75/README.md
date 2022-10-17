@@ -10,6 +10,7 @@
     <li><a href="#trees">Trees</a></li>
     <li><a href="#linkedlist">Tries</a></li>
     <li><a href="#linkedlist">Heap</a></li>
+    <li><a href="#backtracking">Backtracking</a></li>
     
   </ul>
 <nav>
@@ -69,7 +70,8 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">Serialize And Deserialize Binary Tree</a></li>
 <h2>Tries<h2>
 <h2>Heap<h2>
-<h2>Backtracking<h2>
+<h2 id="backtracking">Backtracking<h2>
+  <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/39.%20Combination%20Sum">39. Combination Sum</a></li>
 <h2>Graphs<h2>
 <h2>Advanced Graphs<h2>
 <h2>1-D Dynamic Progamming<h2>
