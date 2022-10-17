@@ -71,7 +71,7 @@
 <h2>Tries<h2>
 <h2>Heap<h2>
 <h2 id="backtracking">Backtracking<h2>
-  <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/39.%20Combination%20Sum">39. Combination Sum</a></li>
+  <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/39.%20Combination%20Sum">Combination Sum</a></li>
 <h2>Graphs<h2>
 <h2>Advanced Graphs<h2>
 <h2>1-D Dynamic Progamming<h2>
