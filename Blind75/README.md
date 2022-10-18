@@ -70,7 +70,7 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">Serialize And Deserialize Binary Tree</a></li>
 <h2>Tries<h2>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/208.%20Implement%20Trie%20(Prefix%20Tree)">Implement Trie Prefix Tree</a></li>
-  <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure">211. Design Add and Search Words Data Structure</a></li>
+  <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure">Design Add and Search Words Data Structure</a></li>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/212.%20Word%20Search%20II">Word Search II</a></li>
 
 <h2>Heap<h2>
