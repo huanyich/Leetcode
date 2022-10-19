@@ -78,6 +78,13 @@
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/39.%20Combination%20Sum">Combination Sum</a></li>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/79.%20Word%20Search">Word Search</a></li>
 <h2>Graphs<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/200.%20Number%20of%20Islands">Number of Islands<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/133.%20Clone%20Graph">Clone Graph<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/417.%20Pacific%20Atlantic%20Water%20Flow">Pacific Atlantic Water Flow</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/207.%20Course%20Schedule">Course Schedule</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph">Number of Connected Components In An Undirected Graphs</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/261.%20Graph%20Valid%20Tree">Graph Valid Tree</a></li>
+
 <h2>Advanced Graphs<h2>
 <h2>1-D Dynamic Progamming<h2>
 <h2>2-D Dynamic Progamming<h2>
