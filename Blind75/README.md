@@ -11,7 +11,7 @@
     <li><a href="#tries">Tries</a></li>
     <li><a href="#heap">Heap</a></li>
     <li><a href="#backtracking">Backtracking</a></li>
-    <li><a href="#graphs">Grpahs</a></li>
+    <li><a href="#graphs">Graphs</a></li>
   </ul>
 <nav>
 
@@ -74,6 +74,7 @@
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/212.%20Word%20Search%20II">Word Search II</a></li>
 
 <h2 id="heap">Heap<h2>
+<li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/295.%20Find%20Median%20from%20Data%20Stream">Find Median from Data Stream</a></li>
 <h2 id="backtracking">Backtracking<h2>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/39.%20Combination%20Sum">Combination Sum</a></li>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/79.%20Word%20Search">Word Search</a></li>
