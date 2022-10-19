@@ -8,10 +8,10 @@
     <li><a href="#binarysearch">Binary Search</a></li>
     <li><a href="#linkedlist">Linked List</a></li>
     <li><a href="#trees">Trees</a></li>
-    <li><a href="#linkedlist">Tries</a></li>
-    <li><a href="#linkedlist">Heap</a></li>
+    <li><a href="#tries">Tries</a></li>
+    <li><a href="#heap">Heap</a></li>
     <li><a href="#backtracking">Backtracking</a></li>
-    
+    <li><a href="#graphs">Grpahs</a></li>
   </ul>
 <nav>
 
@@ -68,16 +68,16 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal">Construct Binary Tree From Preorder And Inorder Traversal</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/124.%20Binary%20Tree%20Maximum%20Path%20Sum">Binary Tree Maximum Path Sum</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">Serialize And Deserialize Binary Tree</a></li>
-<h2>Tries<h2>
+<h2 id="tries">Tries<h2>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/208.%20Implement%20Trie%20(Prefix%20Tree)">Implement Trie Prefix Tree</a></li>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure">Design Add and Search Words Data Structure</a></li>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/212.%20Word%20Search%20II">Word Search II</a></li>
 
-<h2>Heap<h2>
+<h2 id="heap">Heap<h2>
 <h2 id="backtracking">Backtracking<h2>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/39.%20Combination%20Sum">Combination Sum</a></li>
   <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/79.%20Word%20Search">Word Search</a></li>
-<h2>Graphs<h2>
+<h2 id="graphs">Graphs<h2>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/200.%20Number%20of%20Islands">Number of Islands<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/133.%20Clone%20Graph">Clone Graph<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/417.%20Pacific%20Atlantic%20Water%20Flow">Pacific Atlantic Water Flow</a></li>
