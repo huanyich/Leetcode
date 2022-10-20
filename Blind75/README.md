@@ -12,6 +12,7 @@
     <li><a href="#heap">Heap</a></li>
     <li><a href="#backtracking">Backtracking</a></li>
     <li><a href="#graphs">Graphs</a></li>
+    <li><a href="#dp1">1D Dynamic Programming</a></li>
   </ul>
 <nav>
 
