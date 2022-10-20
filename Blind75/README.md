@@ -92,8 +92,8 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/70.%20Climbing%20Stairs">Climbing Stairs</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/198.%20House%20Robber">House Robber</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/213.%20House%20Robber%20II">House Robber II</a></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Longest Palindromic Substring</a></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Palindromic Substrings</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/5.%20Longest%20Palindromic%20Substring">Longest Palindromic Substring</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/647.%20Palindromic%20Substrings">Palindromic Substrings</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Decode Ways</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Coin Change</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Maximum Product Subarray</a></li>
