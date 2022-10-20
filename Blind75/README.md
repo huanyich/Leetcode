@@ -88,16 +88,16 @@
 
 <h2>Advanced Graphs<h2>
 <h2 id="dp1">1-D Dynamic Progamming<h2>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/33.%20Search%20in%20Rotated%20Sorted%20Array">Climbing Stairsa></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">House Robber</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">House Robber II</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Longest Palindromic Substring</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Palindromic Substrings</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Decode Ways</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Coin Change</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Maximum Product Subarray</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Word Break</a>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Longest Increasing Subsequence</a>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/70.%20Climbing%20Stairs">Climbing Stairs</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/198.%20House%20Robber">House Robber</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/213.%20House%20Robber%20II">House Robber II</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Longest Palindromic Substring</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Palindromic Substrings</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Decode Ways</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Coin Change</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Maximum Product Subarray</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Word Break</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Longest Increasing Subsequence</a></li>
 <h2>2-D Dynamic Progamming<h2>
 
 <h2>Greedy<h2>
