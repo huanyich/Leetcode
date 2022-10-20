@@ -1,4 +1,4 @@
-<h1>Blind 75 Questions<h1>
+<h1 style="background-color: black">Blind 75 Questions<h1>
 <nav>
   <ul>
     <li><a href="#array&hash">Arrays and Hashing</a></li>
