@@ -100,7 +100,8 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/139.%20Word%20Break">Word Break</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/300.%20Longest%20Increasing%20Subsequence">Longest Increasing Subsequence</a></li>
 <h2>2-D Dynamic Progamming<h2>
-
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/62.%20Unique%20Paths">Unique Paths</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/1143.%20Longest%20Common%20Subsequence">Longest Common Subsequence</a></li>
 <h2>Greedy<h2>
 <h2>Intervals<h2>
 <h2>Math & Geometry<h2>
