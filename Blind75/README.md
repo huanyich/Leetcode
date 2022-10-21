@@ -103,6 +103,8 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/62.%20Unique%20Paths">Unique Paths</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/1143.%20Longest%20Common%20Subsequence">Longest Common Subsequence</a></li>
 <h2>Greedy<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/53.%20Maximum%20Subarray">Maximum Subarray</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/55.%20Jump%20Game">Jump Game</a></li>
 <h2>Intervals<h2>
 <h2>Math & Geometry<h2>
 <h2>Bit Manipulation<h2>
