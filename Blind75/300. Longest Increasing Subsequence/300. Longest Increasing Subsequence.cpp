@@ -1,0 +1,32 @@
+class Solution {
+public:
+    /* int lengthOfLIS(vector<int>& nums) {
+       int n = nums.size();
+       vector<int> dp(n, 1);
+       int res = 1;
+       for(int i=0; i<n; i++){
+           for(int j=0; j<i; j++){
+               if(nums[i]> nums[j]){
+                   dp[i] = max(dp[i], dp[j]+1);
+               }
+               res = max(res, dp[i]);
+           }
+       }
+       return res;
+    } */
+
+    int lengthOfLIS(vector<int>& nums) {
+       // Solution 2. Bineary Search
+       int n = nums.size();
+       vector<int> piles;
+       for(int i=0; i<n; i++){
+           auto it = lower_bound(piles.begin(), piles.end(), nums[i]);
+           if(it==piles.end()){
+               piles.push_back(nums[i]);
+           }else{
+               *it = nums[i];
+           }
+       }
+       return piles.size();
+    }
+};
