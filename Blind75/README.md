@@ -96,9 +96,9 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/647.%20Palindromic%20Substrings">Palindromic Substrings</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/91.%20Decode%20Ways">Decode Ways</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/322.%20Coin%20Change">Coin Change</a></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Maximum Product Subarray</a></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Word Break</a></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">Longest Increasing Subsequence</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/152.%20Maximum%20Product%20Subarray">Maximum Product Subarray</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/139.%20Word%20Break">Word Break</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/300.%20Longest%20Increasing%20Subsequence">Longest Increasing Subsequence</a></li>
 <h2>2-D Dynamic Progamming<h2>
 
 <h2>Greedy<h2>
