@@ -113,7 +113,7 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/56.%20Merge%20Intervals">Merge Intervals<a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/435.%20Non-overlapping%20Intervals">Non Overlapping Intervals</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/252.%20Meeting%20Rooms">Meeting Rooms</a></li>
-    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/252.%20Meeting%20Rooms%20II">Meeting Rooms II</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/253.%20Meeting%20Rooms%20II">Meeting Rooms II</a></li>
 
 <h2>Math & Geometry<h2>
 <h2>Bit Manipulation<h2>
