@@ -16,6 +16,8 @@
     <li><a href="#dp2">2D Dynamic Programming</a></li>
     <li><a href="#greedy">Greedy</a></li>
     <li><a href="#intervals">Intervals</a></li>
+    <li><a href="#math">Math & Geometry</a></li>
+    <li><a href="#bit">Bit Manipulation</a></li>
   </ul>
 <nav>
 
@@ -115,8 +117,11 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/252.%20Meeting%20Rooms">Meeting Rooms</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/253.%20Meeting%20Rooms%20II">Meeting Rooms II</a></li>
 
-<h2>Math & Geometry<h2>
-<h2>Bit Manipulation<h2>
+<h2 id="math">Math & Geometry<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/48.%20Rotate%20Image">Rotate Image</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/54.%20Spiral%20Matrix">Spiral Matrix</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/73.%20Set%20Matrix%20Zeroes">Set Matrix Zeroes</a></li>
+<h2 id="bit">Bit Manipulation<h2>
     
 
 
