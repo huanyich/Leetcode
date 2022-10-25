@@ -13,6 +13,9 @@
     <li><a href="#backtracking">Backtracking</a></li>
     <li><a href="#graphs">Graphs</a></li>
     <li><a href="#dp1">1D Dynamic Programming</a></li>
+    <li><a href="#dp2">2D Dynamic Programming</a></li>
+    <li><a href="#greedy">Greedy</a></li>
+    <li><a href="#intervals">Intervals</a></li>
   </ul>
 <nav>
 
@@ -99,13 +102,19 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/152.%20Maximum%20Product%20Subarray">Maximum Product Subarray</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/139.%20Word%20Break">Word Break</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/300.%20Longest%20Increasing%20Subsequence">Longest Increasing Subsequence</a></li>
-<h2>2-D Dynamic Progamming<h2>
+<h2 id="dp2">2-D Dynamic Progamming<h2>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/62.%20Unique%20Paths">Unique Paths</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/1143.%20Longest%20Common%20Subsequence">Longest Common Subsequence</a></li>
-<h2>Greedy<h2>
+<h2 id="greedy">Greedy<h2>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/53.%20Maximum%20Subarray">Maximum Subarray</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/55.%20Jump%20Game">Jump Game</a></li>
-<h2>Intervals<h2>
+<h2 id="intervals">Intervals<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/57.%20Insert%20Interval">Insert Interval<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/56.%20Merge%20Intervals">Merge Intervals<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/435.%20Non-overlapping%20Intervals">Non Overlapping Intervals</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/252.%20Meeting%20Rooms">Meeting Rooms</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/252.%20Meeting%20Rooms%20II">Meeting Rooms II</a></li>
+
 <h2>Math & Geometry<h2>
 <h2>Bit Manipulation<h2>
     
