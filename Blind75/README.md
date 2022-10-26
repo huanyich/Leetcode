@@ -122,6 +122,11 @@
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/54.%20Spiral%20Matrix">Spiral Matrix</a></li>
     <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/73.%20Set%20Matrix%20Zeroes">Set Matrix Zeroes</a></li>
 <h2 id="bit">Bit Manipulation<h2>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/191.%20Number%20of%201%20Bits">Number of 1 Bits<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/338.%20Counting%20Bits">Counting Bits<a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/190.%20Reverse%20Bits">Reverse Bits</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/268.%20Missing%20Number">Missing Number</a></li>
+    <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75/371.%20Sum%20of%20Two%20Integers">Sum of Two Integers</a></li>
     
 
 
