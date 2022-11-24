@@ -1,0 +1,129 @@
+/* class Solution {
+public:
+    vector<pair<int,int>> buildings;
+    vector<pair<int,int>> space;
+    vector<pair<int,int>> dir = {{0,1},{1,0},{0,-1},{-1,0}};
+    int shortestDistance(vector<vector<int>>& grid) {
+        int R = grid.size();
+        int C = grid[0].size();
+
+        for(int i=0; i<R; i++){
+            for(int j=0; j<C; j++){
+                if(grid[i][j]==1) buildings.push_back({i,j});
+                if(grid[i][j]==0) space.push_back({i,j});
+            }
+        }
+        int res = INT_MAX;
+        queue<pair<int,int>> q;
+        for(auto s: space){
+            vector<vector<int>> Grid = grid;
+            int sum = 0;
+            int countBuilding = 0;
+            int steps = 0;
+            while(!q.empty()) q.pop();
+
+            q.push(s);
+
+            while(!q.empty()){
+                int n = q.size();
+                for(int i=0; i<n; i++){
+                    if(countBuilding==buildings.size()){
+                        while(!q.empty()) q.pop();
+                        continue;
+                    }
+                    auto [r,c] = q.front();
+                    q.pop();
+                    if(r<0 || r>=R || c<0 || c>=C) continue;
+                    if(Grid[r][c]==2) continue; // if visited
+                    if(Grid[r][c]==1){
+                        sum+=steps;
+                        countBuilding++;
+                        Grid[r][c]=2;
+                        continue;
+                    }
+                    Grid[r][c]=2;
+                    
+
+                    for(int d=0; d<4; d++){
+                        int nr = r + dir[d].first;
+                        int nc = c + dir[d].second;
+                        q.push({nr,nc});
+                    }
+
+                }
+                steps++;
+            }
+            if(countBuilding==buildings.size()){
+                res = min(res, sum);
+            }
+            
+        }
+
+        return res==INT_MAX?-1:res;
+       
+
+    }
+}; */
+class Solution {
+public:
+    int shortestDistance(vector<vector<int>>& grid) {
+        // Next four directions.
+        int dirs[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+        
+        int rows = grid.size();
+        int cols = grid[0].size();
+        
+        // Total Mtrix to store total distance sum for each empty cell.
+        vector<vector<int>> total(rows, vector<int> (cols, 0));
+
+        int emptyLandValue = 0;
+        int minDist = INT_MAX;
+
+        for (int row = 0; row < rows; ++row) {
+            for (int col = 0; col < cols; ++col) {
+
+                // Start a bfs from each house.
+                if (grid[row][col] == 1) {
+                    minDist = INT_MAX;
+
+                    // Use a queue to perform a BFS, starting from the cell located at (row, col).
+                    queue<pair<int, int>> q;
+                    q.push({ row, col });
+                    
+                    int steps = 0;
+
+                    while (!q.empty()) {
+                        steps++;
+
+                        for (int level = q.size(); level > 0; --level) {
+                            auto curr = q.front();
+                            q.pop();
+
+                            for (auto& dir : dirs) {
+                                int nextRow = curr.first + dir[0];
+                                int nextCol = curr.second + dir[1];
+
+                                // For each cell with the value equal to empty land value
+                                // add distance and decrement the cell value by 1.
+                                if (nextRow >= 0 && nextRow < rows &&
+                                    nextCol >= 0 && nextCol < cols &&
+                                    grid[nextRow][nextCol] == emptyLandValue) {
+                                    grid[nextRow][nextCol]--;
+                                    total[nextRow][nextCol] += steps;
+
+                                    q.push({ nextRow, nextCol });
+                                    minDist = min(minDist, total[nextRow][nextCol]);
+                                }
+                            }
+                        }
+                    }
+
+                    // Decrement empty land value to be searched in next iteration.
+                    emptyLandValue--;
+                }
+            }
+        }
+
+        return minDist == INT_MAX ? -1 : minDist;
+    }
+};
