@@ -7,7 +7,7 @@ i traverse the array and keep track of the count
 <p>
 <hr>
 <h3>Solution 2. erase the vector<h3>
-<p style="font-size:1px">
+<p style="color:red;font-size:40px;">
 Time Complexity: O(n^2) Space:O(n)
 use a vector to save the index that need to be pop out
 use a variable to save the deleted elemtents numbers
