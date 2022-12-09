@@ -1,4 +1,4 @@
-<h3>Solution 1. Use vector properity: erase<h3>
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
@@ -24,4 +24,3 @@ public:
         return n-count;
     }
 };
-<hr>
