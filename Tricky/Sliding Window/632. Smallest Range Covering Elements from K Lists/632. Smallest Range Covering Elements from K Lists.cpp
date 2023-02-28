@@ -1,6 +1,38 @@
 class Solution {
 public:
+    vector<int> res = {-1,-1};
+    int maxDiv = INT_MAX; // want to find the smallest
     vector<int> smallestRange(vector<vector<int>>& nums) {
+        int n = nums.size();
+        vector<int> pointer(n, 0);
+        int currMax = INT_MIN;
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        for(int i=0; i<n; i++){
+            pq.push({nums[i][0], i});
+            currMax = max(currMax, nums[i][0]);
+        }
+
+        while(true){
+            auto [val, index] = pq.top();
+            pq.pop();
+            if(currMax - val < maxDiv){
+                maxDiv = currMax - val;
+                res = {val, currMax};
+            }
+
+            //we pop out the smallest so we want to add one more from that index of array
+            pointer[index]++;
+            if(pointer[index] >= nums[index].size()){
+                break;
+            }
+            currMax = max(currMax, nums[index][pointer[index]]);
+            pq.push({nums[index][pointer[index]], index});
+        } 
+        return res;
+        
+        
+    }
+    /* vector<int> smallestRange(vector<vector<int>>& nums) {
         vector<int> res = {-1,-1};
         int deviation = INT_MAX; // initialize it as intMAX
         vector<pair<int,int>> arr;
@@ -50,5 +82,5 @@ public:
 
         return res;
         
-    }
+    } */
 };
