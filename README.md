@@ -7,7 +7,8 @@
 
 <br>
 <h2>Choose From Companies</h2>
-<a href="https://github.com/huanyich/Leetcode/tree/main/Divide%20%26%20Conquer"></a>
+<div>Google:</div>
+<a href="https://github.com/huanyich/Leetcode/tree/main/Tag_Google">Google</a>
 
 <br>
 <h2>Tricky Thoughts</h2>
