@@ -7,7 +7,6 @@
 
 <br>
 <h2>Choose From Companies</h2>
-<div>Google:</div>
 <a href="https://github.com/huanyich/Leetcode/tree/main/Tag_Google">Google</a>
 
 <br>
