@@ -7,7 +7,7 @@
 <li><a href="https://github.com/huanyich/Leetcode/tree/main/Divide%20%26%20Conquer">Monotonic stack</a> </li>
 <li><a href="https://github.com/huanyich/Leetcode/tree/main/Divide%20%26%20Conquer">Divide & Conquer</a>  </li>
 <li><a href="https://github.com/huanyich/Leetcode/tree/main/Blind75">Blind 75</li>
-<li><a href="https://github.com/huanyich/Leetcode/tree/main/Graph"> Graph<li>
+<li><a href="https://github.com/huanyich/Leetcode/tree/main/Graph"> Graph</li>
 </ul>
 
 <br>
