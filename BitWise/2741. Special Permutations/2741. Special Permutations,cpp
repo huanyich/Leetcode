@@ -1,0 +1,36 @@
+class Solution {
+public:
+    vector<vector<long long>> memo;
+    int MOD = 1e9+7;
+    int specialPerm(vector<int>& nums) {
+        int n = nums.size();
+        memo.resize(21, vector<long long>((1<<14)+7, -1));
+        return dp(nums, -1, 0, 0); // dp(nums, prev, count, mask)
+
+    }
+
+    int dp(vector<int>& nums, int prev, int count, int mask){
+        //basecase
+        int n = nums.size();
+        if(count==nums.size()){
+            return 1;
+        }
+        if(memo[prev+1][mask]!=-1)
+            return memo[prev+1][mask];
+
+        long long ret = 0;
+
+        for(int i=0; i<n; i++){
+            //if visited continue
+            if((1<<i)&mask)
+                continue;
+
+            if(prev==-1 || nums[prev]%nums[i]==0 || nums[i]%nums[prev]==0){
+                ret+= dp(nums, i, count+1, mask|(1<<i))%MOD;
+                ret%=MOD;    
+            }
+        }
+
+        return memo[prev+1][mask] = ret;
+    }
+};
