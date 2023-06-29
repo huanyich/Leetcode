@@ -1,0 +1,9 @@
+Intuition
+To find the shortest path, always think of BFS.
+
+Approach
+Not as usual BFS, we may have to traverse the same node again and again, we use bitmask to record the state of visited nodes, if we visit a node that has the same state as before, we ignore it.
+
+Complexity
+Time complexity: O(m*n)
+Space complexity:O(m*n)
