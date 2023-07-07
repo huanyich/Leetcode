@@ -1,0 +1,5 @@
+Solution: Prefix Sum + HashMap
+When dealing with subarrays, always consider utilizing prefix sums.
+Since we are interested in the count of zeros and ones, we can employ a variable called 'count' to keep track of the difference between the number of zeros and ones. 
+At each position 'i' in the array, we can check if there exists an array with the same value that we can subtract from the current subarray to achieve a difference of zero. 
+To facilitate this process, we can utilize a hashmap to store the prefix sum of each position.
