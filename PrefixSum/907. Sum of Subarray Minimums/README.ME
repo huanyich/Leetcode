@@ -1,0 +1,12 @@
+Solution 1: brute force O(n^2)
+Solution 2: prefix O(n)
+    for each ith element, find it's left smaller or equal number's index
+    for each ith element, find it's right smaller numbers
+    
+    first loop:
+    use a monotonic stack
+    pop out all ther larger numbers
+
+    second loop: 
+    use a monotonic stack
+    pop out all the larget and equal numbers
