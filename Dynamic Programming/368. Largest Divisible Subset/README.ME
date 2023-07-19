@@ -1,0 +1,10 @@
+Intuition
+When dealing with a larger value V, if there is a value A such that V is divisible by A (V % A == 0), it follows that any value 'a' satisfying A % a == 0 will also satisfy V % a == 0.
+Therefore, sorting the array is an option.
+
+Approach
+To determine the longest subset for each index i, we iterate through the smaller indices j and check if nums[i] is divisible by nums[j]. If it is, we update dp[i] as the maximum value between dp[i] and dp[j] + 1. To record these values, we utilize an array named 'subset', where subset[i] denotes the longest subset that includes index i.
+
+Complexity
+Time complexity: O(n^2)
+Space complexity:O(n)
